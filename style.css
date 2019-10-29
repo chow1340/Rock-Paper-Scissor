@@ -1,0 +1,57 @@
+
+/* HTML stuff */
+#welcome {
+background-color: rgb(206, 204, 255);
+}
+
+#title {
+  font-family: 'H', 'Trebuchet MS', Helvetica;
+  text-align: center
+}
+
+#image1 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+p {
+  text-align:center;
+}
+ 
+.cpu {
+  margin: auto;
+  text-align:center;
+}
+
+.content { 
+  display: inline;
+}
+
+/* You Chose Div */
+.player {
+  text-align:center;
+  margin:auto;
+}
+
+/* Best of 5 Div */
+.roundCounter {
+    text-align: center;
+    margin: auto;
+  }
+
+
+
+/* Java script stuff */
+  /*Added text for 'you chose' */
+  .playerContent{
+    display: inline;
+  }
+
+
+  /* For best of 5 JS */
+
+  .tie , .win, .lose {
+    display: inline;
+  }
