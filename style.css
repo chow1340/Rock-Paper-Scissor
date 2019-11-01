@@ -55,3 +55,9 @@ p {
   .tie , .win, .lose {
     display: inline;
   }
+
+  
+  .playAgain {
+    width: 100px;
+    height: 20px;
+  }
